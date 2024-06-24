@@ -8,38 +8,8 @@ Este projeto é um exemplo de como utilizar Cucumber, Ruby e HTTParty para reali
 ## Estrutura do Projeto
 A estrutura do projeto está organizada da seguinte forma:
 
-backend_test_vr/
-│
-├── features/
-│ ├── step_definitions/
-│ │ ├── api_steps.rb
-│ │ ├── string_manipulation_steps.rb
-│ │
-│ ├── support/
-│ │ ├── env.rb
-│ │ └── hooks.rb
-│ │
-│ └── scenarios/
-│ ├── api/
-│ │ └── vr_api.feature
-│ │
-│ └── string_manipulation/
-│ └── string_manipulation.feature
-│
-├── lib/
-│ ├── api_client/
-│ │ └── vr_client.rb
-│ │
-│ └── utils/
-│ └── string_manipulator.rb
-│
-├── config/
-│ ├── settings.yml
-│ └── secrets.yml
-│
-├── Gemfile
-├── Gemfile.lock
-└── README.md
+![image](https://github.com/calheirosQA/RubyHttpPartyCucumber/assets/69566568/3e50e7f0-a274-41ab-a67f-0e782a3cce07)
+
 
 
 ## Pré-requisitos
